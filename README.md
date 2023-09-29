@@ -8,27 +8,27 @@
 Цей документ є збіркою високоякісних навчальних матеріалів з c++ як для початківців, так і для мене)
 
 # Що потрібно?
- - [КНИГИ](https://github.com/hikoezy/CppLearningResourcesUA/edit/main/README.md#books-c)
+ - [КНИГИ](https://github.com/hikoezy/CppLearningResourcesUA/tree/main#books-c)(https://github.com/hikoezy/CppLearningResourcesUA/tree/main#books-c))
  - [КРАЩІ УРОКИ ПО С++ У YOUTUBE](https://www.youtube.com/@BloganProgramming)
  - [САЙТ ПО ВИВЧЕНУТЬ С++ (MAST HAVE)](https://acode.com.ua/uroki-po-cpp/)
  - [інформаційний ресурс, присвячений проектування програмних систем мовою програмування С++.](https://en.cppreference.com/w/)
 
 # Рівні вивчення інформації (Тип 'MMR' типу рівинь гри - ранк в DOTA2)
- - [C++ NOOB (700MMR)](https://github.com/hikoezy/CppLearningResourcesUA/edit/main/README.md#c-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B8%D0%B9)
- - [C++ NEWBIE (1500MMR)](https://github.com/hikoezy/CppLearningResourcesUA/edit/main/README.md#c-%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D0%B8%D0%B9)
- - [C++ MID (3500MMR)](https://github.com/hikoezy/CppLearningResourcesUA/edit/main/README.md#%D0%BF%D0%BE%D0%B3%D0%BB%D0%B8%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9-c)
- - [C++ HIGH (6000MMR)](https://github.com/hikoezy/CppLearningResourcesUA/edit/main/README.md#stl-c)
- - [C++ TOP TOP (8000+MMOR)](https://github.com/hikoezy/CppLearningResourcesUA/edit/main/README.md#%D0%B2%D0%B8%D1%80%D1%96%D1%88%D0%B5%D0%BD%D0%BD%D1%8F-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D1%85-%D0%B7%D0%B0%D0%B2%D0%B4%D0%B0%D0%BD%D1%8C-%D0%BD%D0%B0-c)
- - [GIT](https://github.com/hikoezy/CppLearningResourcesUA/edit/main/README.md#git-necessary)
+ - [C++ NOOB (700MMR)](https://github.com/hikoezy/CppLearningResourcesUA/tree/main#c-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B8%D0%B9)
+ - [C++ NEWBIE (1500MMR)](https://github.com/hikoezy/CppLearningResourcesUA/tree/main#c-%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D0%B8%D0%B9)
+ - [C++ MID (3500MMR)](https://github.com/hikoezy/CppLearningResourcesUA/tree/main#%D0%BF%D0%BE%D0%B3%D0%BB%D0%B8%D0%B1%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9-c)
+ - [C++ HIGH (6000MMR)](https://github.com/hikoezy/CppLearningResourcesUA/tree/main#stl-c)
+ - [C++ TOP TOP (8000+MMOR)](https://github.com/hikoezy/CppLearningResourcesUA/tree/main#вирішення-практичних-завдань-на-c)
+ - [GIT](https://github.com/hikoezy/CppLearningResourcesUA/tree/main#git-necessary)
 ******************************************************
 # LEETCODE (По рівням)
-[LEETCODE](https://github.com/hikoezy/CppLearningResourcesUA/edit/main/README.md#leetcode)
+[LEETCODE](https://github.com/hikoezy/CppLearningResourcesUA/tree/main#leetcode)
 ******************************************************
 # Співбесіда для джуна
-[Співбесіда з C++. запитань для Junior](https://github.com/hikoezy/CppLearningResourcesUA/edit/main/README.md#junior)
+[Співбесіда з C++. запитань для Junior](https://github.com/hikoezy/CppLearningResourcesUA/tree/main#співбесіда-з-c-запитань-для-junior)
 ******************************************************
 # Кращі ресурси (На українській мові)
-[Cайтики)](https://github.com/hikoezy/CppLearningResourcesUA/edit/main/README.md#for-beginner-%D0%BD%D0%B0-%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D1%96%D0%B9-%D0%BC%D0%BE%D0%B2%D1%96)
+[Cайтики)](https://github.com/hikoezy/CppLearningResourcesUA/tree/main#for-beginner-на-українській-мові)
 ******************************************************
 # ROADMAP посилання!)
 [Дорожня карта для вивчення C++(eng, рус)](https://salmer.github.io/CppDeveloperRoadmap/)
