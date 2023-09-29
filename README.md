@@ -8,7 +8,7 @@
 Цей документ є збіркою високоякісних навчальних матеріалів з c++ як для початківців, так і для мене)
 
 # Що потрібно?
- - [КНИГИ](https://github.com/hikoezy/CppLearningResourcesUA/tree/main#books-c)(https://github.com/hikoezy/CppLearningResourcesUA/tree/main#books-c))
+ - [КНИГИ](https://github.com/hikoezy/CppLearningResourcesUA/tree/main#books-c)
  - [КРАЩІ УРОКИ ПО С++ У YOUTUBE](https://www.youtube.com/@BloganProgramming)
  - [САЙТ ПО ВИВЧЕНУТЬ С++ (MAST HAVE)](https://acode.com.ua/uroki-po-cpp/)
  - [інформаційний ресурс, присвячений проектування програмних систем мовою програмування С++.](https://en.cppreference.com/w/)
