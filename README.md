@@ -10,15 +10,9 @@
 #### Ціль
 Цей документ є збіркою високоякісних навчальних матеріалів з c++ як для початківців, так і для мене)
 
-#### Contributing
-Create either an [issue](https://github.com/RedSkittleFox/cpp-learning-resources/issues) with title and link to the resource you would like to add to this document or create new branch, add some changes and create a pull request. 
-
-#### Comments and suggestions
-Please leave your comments, thoughts and suggestions via [Issues](https://github.com/RedSkittleFox/cpp-learning-resources/issues). 
-
 # Table of Contents
 
-* [Best learning resources for C++](https://github.com/RedSkittleFox/cpp-learning-resources/blob/master/README.md#best-learning-resources-for-c)
+* [Best learning resources for C++]
 * [BOOKS C++] (книги)
 *  1. Мова програмування C++ (C++11). Лекції і вправи 6-е видання(гарна книга але тільки на мові окупанта і в оригиналі) soon
 *  2. Опануй самостійно C++ за 21 день. 7-ме видання (зараз читаю) - 
