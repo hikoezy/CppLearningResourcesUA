@@ -7,7 +7,7 @@
 #### Ціль
 Цей документ є збіркою високоякісних навчальних матеріалів з c++ як для початківців, так і для мене)
 
-# Що потрібно?
+# Інформація
  - [КНИГИ](https://github.com/hikoezy/CppLearningResourcesUA/tree/main#books-c)
  - [КРАЩІ УРОКИ ПО С++ У YOUTUBE](https://www.youtube.com/@BloganProgramming)
  - [САЙТ ПО ВИВЧЕННЮ С++ (MAST HAVE)](https://acode.com.ua/uroki-po-cpp/)
