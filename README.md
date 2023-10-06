@@ -33,9 +33,6 @@
 # ROADMAP посилання!)
 [Дорожня карта для вивчення C++(eng, рус)](https://salmer.github.io/CppDeveloperRoadmap/)
 
-## Якщо хочеш віддячити
-#[Click](https://send.monobank.ua/jar/5FVXHU1M7i)
-
 
 
 
